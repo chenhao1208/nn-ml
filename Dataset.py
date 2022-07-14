@@ -12,7 +12,7 @@ from torchvision.datasets.folder import default_loader
 # torch.utils.data.Dataset是这一数据的抽象类，可以定义自己的数据类继承和重写这个抽象类
 # 这里要先学习一下python中关于类的知识
 
-# 这里先进行一个类的预定义，学习python类的定义
+
 
 
 class Dog:
